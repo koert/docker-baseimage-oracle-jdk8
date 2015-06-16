@@ -1,0 +1,14 @@
+docker-baseimage-oracle-jdk8
+============================
+
+Base docker image (based on phusion/baseimage) with Oracle JDK 8
+
+Usage
+-----
+
+To create the image `baseimage-oracle-jdk8`, execute the following command:
+
+	docker build -t baseimage-oracle-jdk8 .
+
+
+
